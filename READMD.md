@@ -41,5 +41,6 @@ just add landscape "white-polar-bear-on-snow-covered-ground-during-daytime.jpg" 
 just add portrait "elephant-on-grass-field.jpg" "Harshil Gudka" "2019.5.31" "elephant-on-grass-field" "(0%, 7%)" 100% "(100%, 100%)"
 just add portrait "closeup-photo-of-two-gray-pigeons-on-gray-concrete-surface.jpg" "John Salvino" "2017.5.29" "(ID closeup-photo-of-two-gray-pigeons-on-gray-concrete-surface)" "(0%, 2%)" 100% "(100%, 100%)"
 just add portrait "green-leafed-plant.jpg" "Ivan Verrengia" "2019.6.13" "(ID green-leafed-plant)" "(0%, 0%)" 100% "(100%, 100%)"
-just add landscape "black-and-white-cat-on-tree.jpg" "Maurice Garlet" "2021.2.14" "Mother racoon with her offspring" "(0%, 0%)" 100% "(100%, 100%)"
+just add landscape "gray-bird-over-water-at-daytime.jpg" "Reinhart Julian" "2018.2.8" "Bird" "(0%, 0%)" 100% "(100%, 100%)"
+just add portrait "Baronija Vranska.jpg" "Jon Pintar" "2020.6.2" "Baronija Vranska" "(0%, 0%)" 100% "(100%, 100%)"
 ```
